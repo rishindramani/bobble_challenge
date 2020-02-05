@@ -15,3 +15,4 @@
 #### Installisation Instructions
 > sudo apt install python.pip
 > sudo pip install numpy
+> sudo chmod +x executable
